@@ -12,4 +12,4 @@ Intro to the digital humanities: text analysis
 [튜토리얼] <https://amancio-choi.github.io/Ewha_2023_winter/R/network_analysis_R.html><br>
 
 - R_tutorial_03: 워드 임베딩 기초<br>
-[튜토리얼] ><br>
+[튜토리얼] ><https://amancio-choi.github.io/Ewha_2023_winter/R/word2vec_R.html><br>
